@@ -9,6 +9,7 @@ import elementZhLocale from 'element-ui/lib/locale/lang/zh-CN'
 import i18n from 'vue-i18n'
 
 import '@/styles/index.scss' // global css
+import '@/assets/iconfont/iconfont.css' // global css
 
 import App from './App'
 import router from './router'
